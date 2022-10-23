@@ -37,7 +37,7 @@ pipeline{
             }
             steps{
                 //sh 'cat /etc/os-release'
-                git 'https://github.com/ngocminh21400/pipeline_node.git'
+                git 'https://github.com/votuantai/source_ming_ming.git'
 
                 echo 'Clone Done..'
             }
